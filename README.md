@@ -6,29 +6,29 @@ Slides from my Google Developer Group Cloud Zürich Presentation on Finetuning O
 
 ## 🔗 Links
 ### 👋 Follow/Connect with Erin
-- <a href="https://www.linkedin.com/in/erinla/" target="_blank">LinkedIn</a>
-- <a href="https://github.com/giterinhub/" target="_blank">GitHub</a>
+- [LinkedIn](https://www.linkedin.com/in/erinla/)
+- [GitHub](https://github.com/giterinhub/)
 
 ### 🎓 Trainings
-- <a href="https://youtu.be/7xTGNNLPyMI" target="_blank">Andrej Karpathy: Deep Dive into LLMs like ChatGPT
-- <a href="https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned/blob/main/notebook.ipynb" target="_blank">Huggingface: Generating Datasets</a>
-- <a href="https://huggingface.co/learn/agents-course/bonus-unit1/introduction" target="_blank">Huggingface: Fine-Tune a Large Language Model (LLM) for Function-Calling.</a>
-- <a href="https://huggingface.co/learn/nlp-course/en/chapter11/1" target="_blank">Huggingface NLP Course: Supervised Fine-Tuning</a>
-- <a href="https://www.cloudskillsboost.google/catalog_lab/31750" target="_blank">Google Cloud Skills Boost: Supervised Fine Tuning with Gemini for Question & Answering</a>
-- <a href="https://blog.google/technology/developers/google-kaggle-genai-intensive/" target="_blank">Google and Kaggle’s free GenAI Intensive course</a>
+- [Andrej Karpathy: Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI)
+- [Huggingface: Generating Datasets](https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned/blob/main/notebook.ipynb)
+- [Huggingface: Fine-Tune a Large Language Model (LLM) for Function-Calling.](https://huggingface.co/learn/agents-course/bonus-unit1/introduction)
+- [Huggingface NLP Course: Supervised Fine-Tuning](https://huggingface.co/learn/nlp-course/en/chapter11/1)
+- [Google Cloud Skills Boost: Supervised Fine Tuning with Gemini for Question & Answering](https://www.cloudskillsboost.google/catalog_lab/31750)
+- [Google and Kaggle’s free GenAI Intensive course](https://blog.google/technology/developers/google-kaggle-genai-intensive/)
 
 ### 🚀 Projects shown/mentioned:
-- <a href="https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/" target="_blank">Github Blog: Five steps to Building an LLM Application</a>
-- <a href="https://huggingface.co/spaces/galileo-ai/agent-leaderboard" target="_blank">Huggingface Agent Leaderboard</a>
-- <a href="https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/" target="_blank">Google Gemma</a>
-- <a href="https://github.com/argilla-io/distilabel" target="_blank">Argilla distilabel</a>
-- <a href="https://huggingface.co/datasets/mlabonne/orpo-dpo-mix-40k/" target="_blank">Huggingface Preference Datasets: ORPO DPO Mix</a>
-- <a href="https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned/" target="_blank">Huggingface Preference Datasets: Ultrafeedback</a>
-- <a href="https://docs.wandb.ai/guides/integrations/huggingface/" target="_blank">Weights & Biases</a>
-- <a href="https://docs.langtrace.ai/" target="_blank">Model Management: Langtrace</a>
+- [Github Blog: Five steps to Building an LLM Application](https://github.blog/ai-and-ml/llms/the-architecture-of-todays-llm-applications/)
+- [Huggingface Agent Leaderboard](https://huggingface.co/spaces/galileo-ai/agent-leaderboard)
+- [Google Gemma](https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/)
+- [Argilla distilabel](https://github.com/argilla-io/distilabel)
+- [Huggingface Preference Datasets: ORPO DPO Mix](https://huggingface.co/datasets/mlabonne/orpo-dpo-mix-40k/)
+- [Huggingface Preference Datasets: Ultrafeedback](https://huggingface.co/datasets/argilla/ultrafeedback-binarized-preferences-cleaned/)
+- [Weights & Biases](https://docs.wandb.ai/guides/integrations/huggingface/)
+- [Model Management: Langtrace](https://docs.langtrace.ai/)
 
 ### 📚 Literature shown/mentioned:
-- <a href="https://arxiv.org/pdf/2210.11416" target="_blank">OpenAI: Scaling Instruction-Finetuned Language Models</a>
-- <a href="https://arxiv.org/pdf/2203.02155" target="_blank">OpenAI: Training LM’s to follow instructions with human feedback</a>
-- <a href="https://arxiv.org/pdf/2403.07691" target="_blank">KAIST AI: ORPO: Monolithic Preference Optimization without Reference Model</a>
-- <a href="https://arxiv.org/pdf/2408.13296v1" target="_blank">CeADAR Ireland’s Centre for AI: The Ultimate Guide to Fine-Tuning LLMs</a>
+- [OpenAI: Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416)
+- [OpenAI: Training LM’s to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
+- [KAIST AI: ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691)
+- [CeADAR Ireland’s Centre for AI: The Ultimate Guide to Fine-Tuning LLMs](https://arxiv.org/pdf/2408.13296v1)
